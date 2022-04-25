@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.price{
+    color: #a81642;
+}
+.carousel-item{ 
+    padding: 20px 40px;
+}
+.car-item{
+    border-radius: 10px;
+    background-color: #fceae8;
+}
+.buy-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    outline: none;
+    
+}
+.buy-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.categories-one{
+    background-image: linear-gradient(to left, #f1bd12 0%, #b19f37 100%);
+}
+.categories-two{
+    background-image: linear-gradient(to left, #ec0cda 0%, #c061ab 100%);
+}
+.categories-three{
+    background-image: linear-gradient(to left, #1260f1 0%, #b19f37 100%);
+}
+.cate{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cate h1 ,img{
+    color: white;
+    width: 130px;
+}
+.card-style{
+    border: none;
+    margin:0px 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+h2{
+    color: #c60edf;
+}
+.img-height{        
+    width: 220px;
+    margin: 0 auto;
+
+    
+}
+#subscribe{
+background-color: #fceae8; 
+padding: 50px 30px;
+border-radius: 9px;
+
+}
+footer{
+    text-align: center;
+}
